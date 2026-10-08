@@ -7,6 +7,7 @@ import Tarif from "./tarif/Tarif"
 
 
 
+
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
           <Route path='/' element={<Home/>} />
           <Route path='/tarif' element={<Tarif/>} />
           <Route path='/contact' element={<Contact/>}/>
+         
         </Routes>
       </BrowserRouter>
     </>

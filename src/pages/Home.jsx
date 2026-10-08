@@ -1,7 +1,7 @@
 
 import React from 'react'
 import Hero from './Hero'
-import About from './about'
+import About from './About'
 import Advanges from './Advanges'
 import Servises from './Servises'
 
