@@ -1,9 +1,9 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from "react-router"
-import Header from "./components/Header"
-import Home from "./pages/Home"
-import Contact from "./contact/Contact"
-import Tarif from "./tarif/Tarif"
+import Header from "./companents/Header"
+import Home from "./pages/Home.jsx"
+import Contact from "./contact/Home.jsx"
+import Tarif from "./tarif/Home.jsx"
 
 
 
